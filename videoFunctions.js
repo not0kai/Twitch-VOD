@@ -1,0 +1,2 @@
+var hls = new Hls();
+
